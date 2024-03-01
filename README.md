@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Proof of concept (a bad example of a pseudo polymorphic relationship)
 
-Things you may want to cover:
+### Model Relationships
 
-* Ruby version
+![Models](image.png)
 
-* System dependencies
+## Installation
 
-* Configuration
+1. clone repository
+2. `bundle install`
+3. `rails db:create`
+4. `rails db:migrate`
 
-* Database creation
+## Run script that showcases the model relationships
 
-* Database initialization
+1. `rails runner script.rb`
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Use this code at your own risk*
