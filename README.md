@@ -4,7 +4,7 @@
 
 ### Model Relationships
 
-![Models](image.png)
+![Models](image1.png)
 
 ## Installation
 
